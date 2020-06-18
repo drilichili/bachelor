@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"aufgabe1","l":"ByteVar"},{"p":"aufgabe2","l":"Histogramm"},{"p":"aufgabe1","l":"IntVar"},{"p":"aufgabe3","l":"Notenstatistik"},{"p":"aufgabe1","l":"ShortVar"},{"p":"aufgabe2","l":"Wuerfel"}]
